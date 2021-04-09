@@ -1,0 +1,18 @@
+[21:27:57] [User Authenticator #5/INFO]: UUID of player Sam_Clyde is 7815d9f8-f5c9-4225-a14b-09d270d6fdf8
+[21:27:57] [Server thread/INFO]: Sam_Clyde[/67.249.90.120:62838] logged in with entity id 725 at (26.416621820814385, 69.0, -305.19536924063516)
+[21:27:57] [Server thread/INFO]: Sam_Clyde joined the game
+[21:28:26] [Server thread/INFO]: Sam_Clyde lost connection: Disconnected
+[21:28:26] [Server thread/INFO]: Sam_Clyde left the game
+[21:33:18] [Server thread/INFO]: Stopping the server
+[21:33:18] [Server thread/INFO]: Stopping server
+[21:33:18] [Server thread/INFO]: Saving players
+[21:33:18] [Server thread/INFO]: Saving worlds
+[21:33:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival2020]'/minecraft:overworld
+[21:33:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (Survival2020): All chunks are saved
+[21:33:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival2020]'/minecraft:the_nether
+[21:33:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:33:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Survival2020]'/minecraft:the_end
+[21:33:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:33:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (Survival2020): All chunks are saved
+[21:33:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:33:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

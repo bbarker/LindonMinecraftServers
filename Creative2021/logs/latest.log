@@ -1,0 +1,32 @@
+[10:37:44] [User Authenticator #4/INFO]: UUID of player Sam_Clyde is 7815d9f8-f5c9-4225-a14b-09d270d6fdf8
+[10:37:45] [Server thread/INFO]: Sam_Clyde[/67.249.90.120:61778] logged in with entity id 18080 at (34.30000001192093, 85.0, 42.52930919030512)
+[10:37:45] [Server thread/INFO]: Sam_Clyde joined the game
+[10:38:07] [Server thread/INFO]: Sam_Clyde lost connection: Disconnected
+[10:38:07] [Server thread/INFO]: Sam_Clyde left the game
+[12:32:19] [User Authenticator #5/INFO]: UUID of player Sam_Clyde is 7815d9f8-f5c9-4225-a14b-09d270d6fdf8
+[12:32:19] [Server thread/INFO]: Sam_Clyde[/67.249.90.120:62221] logged in with entity id 18251 at (34.94874377255272, 85.0, 51.86438758131096)
+[12:32:19] [Server thread/INFO]: Sam_Clyde joined the game
+[12:33:00] [Server thread/INFO]: Sam_Clyde has made the advancement [Cover Me With Diamonds]
+[12:34:06] [Server thread/INFO]: Sam_Clyde has completed the challenge [Serious Dedication]
+[12:40:24] [Server thread/INFO]: Sam_Clyde has made the advancement [A Seedy Place]
+[12:47:43] [Server thread/INFO]: [Sam_Clyde: Set the time to 1000]
+[12:47:55] [Server thread/INFO]: [Sam_Clyde: Set the weather to clear]
+[12:48:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Planks'/20451, l='ServerLevel[Creative2021]', x=273.60, y=94.64, z=265.68]
+[12:48:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Planks'/20481, l='ServerLevel[Creative2021]', x=266.48, y=94.26, z=273.70]
+[12:48:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Planks'/20483, l='ServerLevel[Creative2021]', x=267.33, y=94.49, z=273.57]
+[12:48:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Planks'/20484, l='ServerLevel[Creative2021]', x=266.36, y=94.54, z=272.38]
+[12:49:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Planks'/20607, l='ServerLevel[Creative2021]', x=278.46, y=97.53, z=271.63]
+[12:49:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Trapdoor'/20621, l='ServerLevel[Creative2021]', x=278.68, y=91.34, z=268.28]
+[12:49:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Planks'/20668, l='ServerLevel[Creative2021]', x=280.29, y=91.47, z=261.52]
+[12:49:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Planks'/20670, l='ServerLevel[Creative2021]', x=284.38, y=97.57, z=259.42]
+[12:49:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Planks'/20671, l='ServerLevel[Creative2021]', x=281.42, y=91.46, z=260.45]
+[12:49:39] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Planks'/20672, l='ServerLevel[Creative2021]', x=281.37, y=93.64, z=259.66]
+[12:50:43] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Planks'/20868, l='ServerLevel[Creative2021]', x=278.43, y=89.56, z=269.74]
+[12:50:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Trapdoor'/20911, l='ServerLevel[Creative2021]', x=270.36, y=91.72, z=270.73]
+[12:50:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Planks'/20912, l='ServerLevel[Creative2021]', x=268.33, y=91.30, z=271.33]
+[12:50:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Planks'/20922, l='ServerLevel[Creative2021]', x=275.67, y=89.71, z=277.43]
+[12:50:45] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Planks'/20923, l='ServerLevel[Creative2021]', x=278.28, y=92.43, z=279.36]
+[12:50:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Warped Planks'/20943, l='ServerLevel[Creative2021]', x=266.46, y=92.52, z=259.48]
+[12:53:19] [Server thread/INFO]: [Sam_Clyde: Set the weather to clear]
+[12:55:08] [Server thread/INFO]: Sam_Clyde lost connection: Disconnected
+[12:55:08] [Server thread/INFO]: Sam_Clyde left the game
