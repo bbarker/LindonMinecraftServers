@@ -1,0 +1,33 @@
+{
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-04-11 16:05:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-04-11 16:04:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-04-11 16:04:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-04-11 16:04:56 -0400",
+      "minecraft:desert": "2021-04-11 16:05:15 -0400",
+      "minecraft:birch_forest": "2021-04-11 16:04:46 -0400",
+      "minecraft:river": "2021-04-11 16:05:10 -0400",
+      "minecraft:swamp": "2021-04-11 15:56:46 -0400",
+      "minecraft:savanna": "2021-04-11 16:05:11 -0400",
+      "minecraft:plains": "2021-04-11 15:55:17 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
