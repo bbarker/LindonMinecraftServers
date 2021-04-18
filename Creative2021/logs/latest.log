@@ -1,293 +1,71 @@
-[14:50:18] [User Authenticator #12/INFO]: UUID of player Sam_Clyde is 7815d9f8-f5c9-4225-a14b-09d270d6fdf8
-[14:50:19] [Server thread/INFO]: Sam_Clyde[/67.249.90.120:63013] logged in with entity id 45902 at (278.30000001192093, 69.0, 269.52682143800877)
-[14:50:19] [Server thread/INFO]: Sam_Clyde joined the game
-[15:09:12] [Server thread/INFO]: Sam_Clyde lost connection: Disconnected
-[15:09:12] [Server thread/INFO]: Sam_Clyde left the game
-[15:45:30] [User Authenticator #13/INFO]: UUID of player Sam_Clyde is 7815d9f8-f5c9-4225-a14b-09d270d6fdf8
-[15:45:30] [Server thread/INFO]: Sam_Clyde[/67.249.90.120:63436] logged in with entity id 47785 at (44.24970893438643, 87.0, 80.97415542764497)
-[15:45:30] [Server thread/INFO]: Sam_Clyde joined the game
-[15:45:38] [Server thread/INFO]: Sam_Clyde lost connection: Disconnected
-[15:45:38] [Server thread/INFO]: Sam_Clyde left the game
-[15:55:17] [User Authenticator #14/INFO]: UUID of player CaveDisasters is de5804e9-5069-43d2-adea-4b8fbf7beb1e
-[15:55:17] [Server thread/INFO]: CaveDisasters[/172.76.232.142:49859] logged in with entity id 47942 at (87.5, 68.0, 223.5)
-[15:55:17] [Server thread/INFO]: CaveDisasters joined the game
-[15:58:26] [Server thread/INFO]: <CaveDisasters> anyone here?
-[15:59:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@711e8da2[id=<null>,name=Sam_Clyde,properties={},legacy=false] (/67.249.90.120:63648) lost connection: Disconnected
-[15:59:44] [User Authenticator #15/INFO]: UUID of player Sam_Clyde is 7815d9f8-f5c9-4225-a14b-09d270d6fdf8
-[15:59:44] [Server thread/INFO]: Sam_Clyde[/67.249.90.120:63659] logged in with entity id 48701 at (44.24970893438643, 87.0, 80.97415542764497)
-[15:59:44] [Server thread/INFO]: Sam_Clyde joined the game
-[15:59:54] [Server thread/INFO]: <CaveDisasters> ahoy there
-[15:59:56] [Server thread/INFO]: <Sam_Clyde> Hey
-[16:00:08] [Server thread/INFO]: <Sam_Clyde> Is Lindon here
-[16:00:16] [Server thread/INFO]: <Sam_Clyde> Is this MAx?
-[16:00:29] [Server thread/INFO]: <CaveDisasters> this is matthew p. I have not seen Lindon yet
-[16:00:48] [Server thread/INFO]: <Sam_Clyde> Hey Mathew It's Alex
-[16:01:58] [Server thread/INFO]: <Sam_Clyde> Hello
-[16:02:05] [Server thread/INFO]: <Sam_Clyde> I'll go text lindon
-[16:03:09] [Server thread/INFO]: <Sam_Clyde> This is me and Lindon's server
-[16:03:25] [Server thread/INFO]: <CaveDisasters> ME NOTICE
-[16:03:48] [Server thread/INFO]: <Sam_Clyde> ???
-[16:04:18] [Server thread/INFO]: <Sam_Clyde> Don't Break anything
-[16:05:21] [User Authenticator #16/INFO]: UUID of player _CryFox_ is e05a61fe-9799-4469-8b2b-5b45c183ce15
-[16:05:21] [Server thread/INFO]: _CryFox_[/192.168.1.20:20401] logged in with entity id 50424 at (38.5, 85.0, 64.5)
-[16:05:21] [Server thread/INFO]: _CryFox_ joined the game
-[16:05:26] [Server thread/INFO]: <Sam_Clyde> LINDON
-[16:05:40] [Server thread/INFO]: <Sam_Clyde> I'll send the meet
-[16:05:53] [Server thread/INFO]: <_CryFox_> NO
-[16:06:03] [Server thread/INFO]: <Sam_Clyde> Gtg
-[16:06:12] [Server thread/INFO]: <Sam_Clyde> Bye
-[16:06:16] [Server thread/INFO]: <_CryFox_> there is alredy a link
-[16:06:20] [Server thread/INFO]: <Sam_Clyde> ?
-[16:06:48] [Server thread/INFO]: <CaveDisasters> hey mobs! RuB a monkeys tummy with yo head!
-[16:07:40] [Server thread/INFO]: <Sam_Clyde> Lindon did u send it to me on hanguots
-[16:07:43] [Server thread/INFO]: <Sam_Clyde> ?
-[16:08:19] [Server thread/INFO]: <_CryFox_> just ask your mom for the new link
-[16:08:57] [Server thread/INFO]: <CaveDisasters> CaveDisasters
-[16:09:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/51832, l='ServerLevel[Creative2021]', x=727.36, y=53.26, z=235.34]
-[16:09:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Coal'/51835, l='ServerLevel[Creative2021]', x=730.38, y=48.46, z=231.46]
-[16:09:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Andesite'/51836, l='ServerLevel[Creative2021]', x=728.63, y=48.27, z=232.39]
-[16:09:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/51837, l='ServerLevel[Creative2021]', x=728.44, y=48.46, z=236.40]
-[16:09:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/51839, l='ServerLevel[Creative2021]', x=727.65, y=51.38, z=235.35]
-[16:09:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Coal'/51840, l='ServerLevel[Creative2021]', x=733.52, y=47.63, z=230.75]
-[16:09:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/51843, l='ServerLevel[Creative2021]', x=728.40, y=47.74, z=237.40]
-[16:09:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Andesite'/51861, l='ServerLevel[Creative2021]', x=727.35, y=44.55, z=229.52]
-[16:09:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Coal'/51862, l='ServerLevel[Creative2021]', x=732.32, y=48.47, z=230.38]
-[16:11:07] [Server thread/INFO]: [_CryFox_: Set own game mode to Survival Mode]
-[16:11:19] [Server thread/INFO]: CaveDisasters has made the advancement [Monster Hunter]
-[16:11:19] [Server thread/INFO]: CaveDisasters has made the advancement [Voluntary Exile]
-[16:11:24] [Server thread/INFO]: [_CryFox_: Set own game mode to Creative Mode]
-[16:11:51] [Server thread/INFO]: CaveDisasters has made the advancement [Ol' Betsy]
-[16:12:38] [Server thread/INFO]: CaveDisasters has made the advancement [Take Aim]
-[16:12:43] [Server thread/WARN]: _CryFox_ moved too quickly! -10.413972890623171,0.5714730251784346,-0.5816249432417067
-[16:13:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[16:13:27] [Server thread/WARN]: CaveDisasters moved too quickly! -9.725675989582442,0.0,2.618504784522692
-[16:13:32] [Server thread/INFO]: CaveDisasters has made the advancement [The End?]
-[16:13:32] [Server thread/INFO]: [Sam_Clyde: Teleported CaveDisasters to Sam_Clyde]
-[16:16:09] [Server thread/INFO]: CaveDisasters has made the advancement [Ice Bucket Challenge]
-[16:16:11] [Server thread/INFO]: _CryFox_ lost connection: Disconnected
-[16:16:11] [Server thread/INFO]: _CryFox_ left the game
-[16:16:19] [User Authenticator #17/INFO]: UUID of player _CryFox_ is e05a61fe-9799-4469-8b2b-5b45c183ce15
-[16:16:19] [Server thread/INFO]: _CryFox_[/192.168.1.20:20779] logged in with entity id 54028 at (294.472909832724, 81.49614962462022, 261.63299853647345)
-[16:16:19] [Server thread/INFO]: _CryFox_ joined the game
-[16:16:23] [User Authenticator #18/INFO]: UUID of player _CryFox_ is e05a61fe-9799-4469-8b2b-5b45c183ce15
-[16:16:23] [Server thread/INFO]: _CryFox_ lost connection: You logged in from another location
-[16:16:23] [Server thread/INFO]: _CryFox_ left the game
-[16:16:23] [Server thread/INFO]: _CryFox_[/192.168.1.20:20783] logged in with entity id 54039 at (304.68292196487596, 73.0, 261.626121719596)
-[16:16:23] [Server thread/INFO]: _CryFox_ joined the game
-[16:17:45] [Server thread/INFO]: CaveDisasters has made the advancement [We Need to Go Deeper]
-[16:23:26] [Server thread/INFO]: Sam_Clyde lost connection: Disconnected
-[16:23:26] [Server thread/INFO]: Sam_Clyde left the game
-[16:25:29] [Server thread/INFO]: <_CryFox_> fdkj
-[16:25:30] [Server thread/INFO]: <_CryFox_> dsljf
-[16:25:37] [Server thread/INFO]: <_CryFox_> fds
-[16:25:38] [Server thread/INFO]: <_CryFox_> dfs
-[16:25:39] [Server thread/INFO]: <_CryFox_> s
-[16:27:01] [User Authenticator #19/INFO]: UUID of player Sam_Clyde is 7815d9f8-f5c9-4225-a14b-09d270d6fdf8
-[16:27:01] [Server thread/INFO]: Sam_Clyde[/67.249.90.120:63957] logged in with entity id 56587 at (188.30000001192093, 52.06385441606311, 260.69999998807907)
-[16:27:01] [Server thread/INFO]: Sam_Clyde joined the game
-[16:27:40] [Server thread/INFO]: [Sam_Clyde: Set the time to 1000]
-[16:28:01] [Server thread/INFO]: _CryFox_ lost connection: Disconnected
-[16:28:01] [Server thread/INFO]: _CryFox_ left the game
-[16:28:07] [User Authenticator #20/INFO]: UUID of player _CryFox_ is e05a61fe-9799-4469-8b2b-5b45c183ce15
-[16:28:08] [Server thread/INFO]: _CryFox_[/192.168.1.20:21179] logged in with entity id 56949 at (285.30000001192093, 69.0, 267.69999998807907)
-[16:28:08] [Server thread/INFO]: _CryFox_ joined the game
-[16:28:12] [User Authenticator #21/INFO]: UUID of player _CryFox_ is e05a61fe-9799-4469-8b2b-5b45c183ce15
-[16:28:12] [Server thread/INFO]: _CryFox_ lost connection: You logged in from another location
-[16:28:12] [Server thread/INFO]: _CryFox_ left the game
-[16:28:12] [Server thread/INFO]: _CryFox_[/192.168.1.20:21183] logged in with entity id 57033 at (272.9292728900178, 68.11162521243665, 279.1914272803693)
-[16:28:12] [Server thread/INFO]: _CryFox_ joined the game
-[16:29:31] [Server thread/WARN]: _CryFox_ moved too quickly! -1.1895143516077837,0.0,10.584972365331112
-[16:29:33] [Server thread/INFO]: [Sam_Clyde: Teleported Sam_Clyde to 5664.5, 84.24542469250609, -4943.5]
-[16:29:35] [Server thread/WARN]: _CryFox_ moved too quickly! -1.9884238704060806,0.0,10.56254698809937
-[16:29:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[16:30:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[16:33:51] [Server thread/INFO]: [Sam_Clyde: Teleported _CryFox_ to Sam_Clyde]
-[16:33:51] [Server thread/WARN]: _CryFox_ moved too quickly! 4736.676470649669,13.042739948825215,-4920.009538156998
-[16:34:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
-[16:34:23] [Server thread/WARN]: _CryFox_ moved too quickly! 8.918767510796329,0.0,-6.232733641450238
-[16:34:23] [Server thread/WARN]: Sam_Clyde moved too quickly! -5425.278596237895,-27.72985438808614,4924.420843360741
-[16:34:23] [Server thread/WARN]: Sam_Clyde moved too quickly! -5425.278596237895,-27.72985438808614,4924.420843360741
-[16:34:23] [Server thread/WARN]: Entity aah['Sam_Clyde'/56587, l='ServerLevel[Creative2021]', x=100.50, y=49.00, z=0.50] left loaded chunk area
-[16:35:01] [User Authenticator #22/INFO]: UUID of player _CryFox_ is e05a61fe-9799-4469-8b2b-5b45c183ce15
-[16:35:07] [Server thread/INFO]: CaveDisasters lost connection: Disconnected
-[16:35:07] [Server thread/INFO]: CaveDisasters left the game
-[16:35:07] [Server thread/INFO]: Sam_Clyde lost connection: Disconnected
-[16:35:07] [Server thread/INFO]: Sam_Clyde left the game
-[16:35:07] [Server thread/INFO]: _CryFox_ lost connection: Disconnected
-[16:35:07] [Server thread/INFO]: _CryFox_ left the game
-[16:35:07] [Server thread/INFO]: _CryFox_[/192.168.1.20:21442] logged in with entity id 60745 at (390.9860926636642, 101.15193304188963, 227.19529077353434)
-[16:35:07] [Server thread/INFO]: _CryFox_ joined the game
-[16:35:07] [User Authenticator #23/INFO]: UUID of player _CryFox_ is e05a61fe-9799-4469-8b2b-5b45c183ce15
-[16:35:07] [Server thread/INFO]: _CryFox_ lost connection: You logged in from another location
-[16:35:07] [Server thread/INFO]: _CryFox_ left the game
-[16:35:07] [Server thread/INFO]: _CryFox_[/192.168.1.20:21448] logged in with entity id 60773 at (390.9860926636642, 101.15193304188963, 227.19529077353434)
-[16:35:07] [Server thread/INFO]: _CryFox_ joined the game
-[16:35:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33293ms or 665 ticks behind
-[16:35:14] [User Authenticator #24/INFO]: UUID of player CaveDisasters is de5804e9-5069-43d2-adea-4b8fbf7beb1e
-[16:35:14] [Server thread/INFO]: CaveDisasters[/172.76.232.142:49973] logged in with entity id 60864 at (803.3534725503099, 71.0, 43.46398609166175)
-[16:35:14] [Server thread/INFO]: CaveDisasters joined the game
-[16:35:15] [Server thread/WARN]: _CryFox_ moved too quickly! -8.408221412652836,0.0,6.422846678154798
-[16:35:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
-[16:36:25] [Server thread/INFO]: [_CryFox_: Teleported _CryFox_ to CaveDisasters]
-[16:36:25] [Server thread/WARN]: _CryFox_ moved too quickly! 578.2797717999476,-26.447819793048183,-275.5041185605331
-[16:36:25] [Server thread/WARN]: _CryFox_ moved too quickly! 578.2797717999476,-26.447819793048183,-275.5041185605331
-[16:36:51] [User Authenticator #25/INFO]: UUID of player Sam_Clyde is 7815d9f8-f5c9-4225-a14b-09d270d6fdf8
-[16:36:51] [Server thread/INFO]: Sam_Clyde[/67.249.90.120:64191] logged in with entity id 62072 at (100.5, 49.0, 0.5)
-[16:36:51] [Server thread/INFO]: Sam_Clyde joined the game
-[16:37:53] [Server thread/INFO]: [Sam_Clyde: Teleported _CryFox_ to Sam_Clyde]
-[16:38:22] [Server thread/INFO]: CaveDisasters has completed the challenge [Cover Me in Debris]
-[16:38:37] [Server thread/INFO]: [Sam_Clyde: Teleported CaveDisasters to Sam_Clyde]
-[16:39:03] [Server thread/INFO]: Sam_Clyde lost connection: Disconnected
-[16:39:03] [Server thread/INFO]: Sam_Clyde left the game
-[16:40:52] [User Authenticator #26/INFO]: UUID of player Sam_Clyde is 7815d9f8-f5c9-4225-a14b-09d270d6fdf8
-[16:40:52] [Server thread/INFO]: Sam_Clyde[/67.249.90.120:64354] logged in with entity id 63461 at (98.51426859406168, 49.0, -1.9946281656125142)
-[16:40:52] [Server thread/INFO]: Sam_Clyde joined the game
-[16:41:28] [Server thread/INFO]: CaveDisasters has reached the goal [Hired Help]
-[16:41:42] [Server thread/INFO]: [_CryFox_: Set the time to 1000]
-[16:41:52] [Server thread/INFO]: <Sam_Clyde> Where are u guys?
-[16:42:19] [Server thread/WARN]: Sam_Clyde moved too quickly! -7.547511147505531,-0.7684762024129839,-6.525376874285939
-[16:42:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8172ms or 163 ticks behind
-[16:43:39] [Server thread/WARN]: CaveDisasters moved too quickly! -166.5067815818004,-15.744750952877936,-263.5569225631088
-[16:44:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
-[16:45:03] [Server thread/WARN]: CaveDisasters moved too quickly! -166.90052087213064,-15.71568387076617,-263.3396775529278
-[16:46:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2518ms or 50 ticks behind
-[16:47:13] [Server thread/INFO]: <Sam_Clyde> : (
-[16:47:28] [Server thread/INFO]: CaveDisasters has reached the goal [The End... Again...]
-[16:47:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[16:48:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[16:48:43] [Server thread/WARN]: _CryFox_ moved too quickly! 4.16394736168839,0.0,9.72416882034829
-[16:48:55] [Server thread/INFO]: Sam_Clyde lost connection: Disconnected
-[16:48:55] [Server thread/INFO]: Sam_Clyde left the game
-[16:48:57] [Server thread/INFO]: CaveDisasters has made the advancement [A Throwaway Joke]
-[16:51:31] [Server thread/INFO]: CaveDisasters has made the advancement [Free the End]
-[16:52:18] [Server thread/INFO]: [_CryFox_: Set the time to 1000]
-[16:55:14] [Server thread/INFO]: <CaveDisasters> fuidefuhdfgbfghgdstu
-[16:56:12] [Server thread/INFO]: <CaveDisasters> disuidyhseudtsgdhguyshdilF OLde
-[16:59:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7113ms or 142 ticks behind
-[16:59:45] [Server thread/INFO]: CaveDisasters has made the advancement [Remote Getaway]
-[17:00:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5536ms or 110 ticks behind
-[17:01:08] [User Authenticator #27/INFO]: UUID of player Sam_Clyde is 7815d9f8-f5c9-4225-a14b-09d270d6fdf8
-[17:01:08] [Server thread/INFO]: Sam_Clyde[/67.249.90.120:64475] logged in with entity id 69444 at (86.87484054036274, 76.0, 578.3992957149369)
-[17:01:08] [Server thread/INFO]: Sam_Clyde joined the game
-[17:01:47] [Server thread/INFO]: [Sam_Clyde: Teleported Sam_Clyde to _CryFox_]
-[17:03:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[17:06:10] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "?" is null
-	at zy.b(SourceFile:202) ~[server.jar:?]
-	at zs.a(SourceFile:939) ~[server.jar:?]
-	at aae.a(SourceFile:467) ~[server.jar:?]
-	at aay.a(SourceFile:931) ~[server.jar:?]
-	at st.a(SourceFile:122) ~[server.jar:?]
-	at st$a.a(SourceFile:56) ~[server.jar:?]
-	at ol.a(SourceFile:21) ~[server.jar:?]
-	at wb.run(SourceFile:18) ~[server.jar:?]
-	at aob.c(SourceFile:144) ~[server.jar:?]
-	at aof.c(SourceFile:23) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.b(SourceFile:761) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.c(SourceFile:155) ~[server.jar:?]
-	at aob.y(SourceFile:118) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.bb(SourceFile:743) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
-	at aob.c(SourceFile:127) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
-	at java.lang.Thread.run(Thread.java:832) [?:?]
-[17:16:22] [Server thread/INFO]: <Sam_Clyde> Flux
-[17:18:32] [Server thread/INFO]: Sam_Clyde lost connection: Disconnected
-[17:18:32] [Server thread/INFO]: Sam_Clyde left the game
-[17:18:47] [User Authenticator #28/INFO]: UUID of player Sam_Clyde is 7815d9f8-f5c9-4225-a14b-09d270d6fdf8
-[17:18:48] [Server thread/INFO]: Sam_Clyde[/67.249.90.120:64552] logged in with entity id 71783 at (36.179781520026694, 65.42109101912703, 14.500260218592837)
-[17:18:48] [Server thread/INFO]: Sam_Clyde joined the game
-[17:18:58] [Server thread/INFO]: <Sam_Clyde> mc.hypixel.net
-[17:19:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Ender Pearl'/71859, l='ServerLevel[Creative2021]', x=89.33, y=79.52, z=56.82]
-[17:19:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Ender Pearl'/71859, l='ServerLevel[Creative2021]', x=89.33, y=79.52, z=56.82]
-[17:19:12] [Server thread/WARN]: Fetching packet for removed entity bcv['TNT'/71860, l='ServerLevel[Creative2021]', x=87.64, y=79.52, z=56.68]
-[17:19:12] [Server thread/WARN]: Fetching packet for removed entity bcv['TNT'/71860, l='ServerLevel[Creative2021]', x=87.64, y=79.52, z=56.68]
-[17:19:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Ender Pearl'/71861, l='ServerLevel[Creative2021]', x=83.11, y=79.52, z=56.13]
-[17:19:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Ender Pearl'/71861, l='ServerLevel[Creative2021]', x=83.11, y=79.52, z=56.13]
-[17:19:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Ender Pearl'/71862, l='ServerLevel[Creative2021]', x=88.62, y=79.52, z=56.76]
-[17:19:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Ender Pearl'/71862, l='ServerLevel[Creative2021]', x=88.62, y=79.52, z=56.76]
-[17:19:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Ender Pearl'/71863, l='ServerLevel[Creative2021]', x=84.83, y=79.52, z=56.62]
-[17:19:12] [Server thread/WARN]: Fetching packet for removed entity bcv['Ender Pearl'/71863, l='ServerLevel[Creative2021]', x=84.83, y=79.52, z=56.62]
-[17:19:12] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/71865, l='ServerLevel[Creative2021]', x=85.30, y=77.48, z=56.31]
-[17:19:12] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/71865, l='ServerLevel[Creative2021]', x=85.30, y=77.48, z=56.31]
-[17:19:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[17:19:39] [Server thread/INFO]: Sam_Clyde lost connection: Disconnected
-[17:19:39] [Server thread/INFO]: Sam_Clyde left the game
-[17:20:32] [Server thread/INFO]: _CryFox_ lost connection: Disconnected
-[17:20:32] [Server thread/INFO]: _CryFox_ left the game
-[17:20:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Ender Pearl'/71985, l='ServerLevel[Creative2021]', x=57.19, y=77.05, z=89.01]
-[17:20:33] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/71994, l='ServerLevel[Creative2021]', x=56.64, y=74.45, z=87.58]
-[17:21:20] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72070, l='ServerLevel[Creative2021]', x=2.39, y=45.62, z=88.54]
-[17:21:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Redstone Torch'/72071, l='ServerLevel[Creative2021]', x=4.45, y=47.42, z=89.65]
-[17:21:20] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72072, l='ServerLevel[Creative2021]', x=4.74, y=47.59, z=87.38]
-[17:21:20] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72073, l='ServerLevel[Creative2021]', x=6.51, y=45.58, z=88.75]
-[17:21:21] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72088, l='ServerLevel[Creative2021]', x=6.72, y=44.59, z=92.58]
-[17:21:21] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72089, l='ServerLevel[Creative2021]', x=5.26, y=47.41, z=85.46]
-[17:21:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Redstone Torch'/72128, l='ServerLevel[Creative2021]', x=3.68, y=40.27, z=88.74]
-[17:21:49] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72133, l='ServerLevel[Creative2021]', x=1.52, y=41.75, z=86.72]
-[17:21:49] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72134, l='ServerLevel[Creative2021]', x=5.72, y=39.32, z=89.54]
-[17:21:49] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72135, l='ServerLevel[Creative2021]', x=1.51, y=39.42, z=89.63]
-[17:21:49] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72136, l='ServerLevel[Creative2021]', x=4.36, y=42.69, z=85.31]
-[17:21:49] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72137, l='ServerLevel[Creative2021]', x=2.72, y=41.46, z=85.38]
-[17:21:49] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72138, l='ServerLevel[Creative2021]', x=4.56, y=41.74, z=84.71]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72372, l='ServerLevel[Creative2021]', x=2.52, y=36.37, z=90.45]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72373, l='ServerLevel[Creative2021]', x=2.54, y=34.60, z=91.43]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72390, l='ServerLevel[Creative2021]', x=2.47, y=29.61, z=87.66]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['TNT'/72403, l='ServerLevel[Creative2021]', x=2.30, y=25.04, z=88.63]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Ender Pearl'/72404, l='ServerLevel[Creative2021]', x=2.83, y=26.25, z=87.92]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['TNT'/72405, l='ServerLevel[Creative2021]', x=2.30, y=25.13, z=87.50]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['TNT'/72406, l='ServerLevel[Creative2021]', x=2.30, y=25.04, z=89.01]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Ender Pearl'/72407, l='ServerLevel[Creative2021]', x=2.74, y=25.00, z=87.30]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['TNT'/72408, l='ServerLevel[Creative2021]', x=2.74, y=25.00, z=87.30]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Ender Pearl'/72409, l='ServerLevel[Creative2021]', x=2.30, y=25.37, z=89.69]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['TNT'/72410, l='ServerLevel[Creative2021]', x=2.30, y=25.37, z=89.69]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72411, l='ServerLevel[Creative2021]', x=4.71, y=25.61, z=90.47]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72412, l='ServerLevel[Creative2021]', x=3.57, y=24.46, z=87.67]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72413, l='ServerLevel[Creative2021]', x=3.48, y=27.43, z=86.31]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72417, l='ServerLevel[Creative2021]', x=7.70, y=29.65, z=87.70]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72418, l='ServerLevel[Creative2021]', x=7.54, y=28.54, z=87.59]
-[17:24:02] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72433, l='ServerLevel[Creative2021]', x=2.54, y=28.62, z=84.67]
-[17:24:21] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72499, l='ServerLevel[Creative2021]', x=2.72, y=46.31, z=83.57]
-[17:24:21] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72500, l='ServerLevel[Creative2021]', x=2.50, y=44.26, z=81.37]
-[17:24:35] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72532, l='ServerLevel[Creative2021]', x=1.29, y=39.71, z=79.55]
-[17:24:35] [Server thread/WARN]: Fetching packet for removed entity bcv['Redstone Torch'/72533, l='ServerLevel[Creative2021]', x=1.36, y=40.47, z=80.28]
-[17:24:35] [Server thread/WARN]: Fetching packet for removed entity bcv['End Stone'/72534, l='ServerLevel[Creative2021]', x=0.27, y=41.60, z=80.72]
-[17:33:11] [User Authenticator #29/INFO]: UUID of player _CryFox_ is e05a61fe-9799-4469-8b2b-5b45c183ce15
-[17:33:11] [Server thread/INFO]: _CryFox_[/192.168.1.20:23308] logged in with entity id 73092 at (19.48353598659547, 63.46812382337953, -42.87491885153626)
-[17:33:11] [Server thread/INFO]: _CryFox_ joined the game
-[17:33:14] [User Authenticator #30/INFO]: UUID of player _CryFox_ is e05a61fe-9799-4469-8b2b-5b45c183ce15
-[17:33:14] [Server thread/INFO]: _CryFox_ lost connection: You logged in from another location
-[17:33:14] [Server thread/INFO]: _CryFox_ left the game
-[17:33:14] [Server thread/INFO]: _CryFox_[/192.168.1.20:23311] logged in with entity id 73103 at (18.81895532398498, 63.61812382933999, -44.113612921268015)
-[17:33:14] [Server thread/INFO]: _CryFox_ joined the game
-[17:33:16] [User Authenticator #31/INFO]: UUID of player _CryFox_ is e05a61fe-9799-4469-8b2b-5b45c183ce15
-[17:33:16] [Server thread/INFO]: _CryFox_ lost connection: You logged in from another location
-[17:33:16] [Server thread/INFO]: _CryFox_ left the game
-[17:33:16] [Server thread/INFO]: _CryFox_[/192.168.1.20:23315] logged in with entity id 73104 at (17.561138975225205, 67.35621384135395, -41.51704099871738)
-[17:33:16] [Server thread/INFO]: _CryFox_ joined the game
-[17:33:19] [User Authenticator #32/INFO]: UUID of player Sam_Clyde is 7815d9f8-f5c9-4225-a14b-09d270d6fdf8
-[17:33:20] [Server thread/INFO]: Sam_Clyde[/67.249.90.120:64657] logged in with entity id 73114 at (100.5, 49.0, 0.5)
-[17:33:20] [Server thread/INFO]: Sam_Clyde joined the game
-[17:45:52] [Server thread/INFO]: [_CryFox_: Set own game mode to Survival Mode]
-[17:46:42] [Server thread/INFO]: [_CryFox_: Set own game mode to Creative Mode]
-[17:57:51] [Server thread/INFO]: Sam_Clyde lost connection: Disconnected
-[17:57:51] [Server thread/INFO]: Sam_Clyde left the game
-[17:59:56] [User Authenticator #33/INFO]: UUID of player Sam_Clyde is 7815d9f8-f5c9-4225-a14b-09d270d6fdf8
-[17:59:56] [Server thread/INFO]: Sam_Clyde[/67.249.90.120:64957] logged in with entity id 76224 at (349.2866299278813, 24.0, 296.56620091637205)
-[17:59:56] [Server thread/INFO]: Sam_Clyde joined the game
-[18:00:46] [Server thread/INFO]: [Sam_Clyde: Teleported Sam_Clyde to _CryFox_]
-[18:02:01] [Server thread/INFO]: [Sam_Clyde: Gamerule keepInventory is now set to: true]
-[18:02:35] [Server thread/INFO]: Sam_Clyde fell out of the world
-[18:02:35] [Server thread/INFO]: [Sam_Clyde: Killed Sam_Clyde]
-[18:02:54] [Server thread/INFO]: Sam_Clyde lost connection: Disconnected
-[18:02:54] [Server thread/INFO]: Sam_Clyde left the game
-[18:03:17] [Server thread/WARN]: CaveDisasters moved too quickly! -166.50911717857423,-15.535840625044557,-263.1813120735826
-[18:03:17] [Server thread/WARN]: Entity aah['CaveDisasters'/60864, l='ServerLevel[Creative2021]', x=100.50, y=49.00, z=0.50] left loaded chunk area
-[18:03:25] [Server thread/WARN]: _CryFox_ moved too quickly! -4.26739940057098,-7.638037694853779,-5.009839342254054
-[18:03:25] [Server thread/WARN]: CaveDisasters moved too quickly! 3.151074286888644,6.359730959884921,7.1029479995653695
-[18:03:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7222ms or 144 ticks behind
-[18:03:54] [Server thread/INFO]: _CryFox_ lost connection: Disconnected
-[18:03:54] [Server thread/INFO]: _CryFox_ left the game
-[18:12:28] [Server thread/INFO]: CaveDisasters has made the advancement [Who is Cutting Onions?]
+[16:19:57] [User Authenticator #59/INFO]: UUID of player _CryFox_ is e05a61fe-9799-4469-8b2b-5b45c183ce15
+[16:19:57] [Server thread/INFO]: _CryFox_[/192.168.1.1:51016] logged in with entity id 126510 at (-1194.932163335615, 64.0, 307.69999998807907)
+[16:19:57] [Server thread/INFO]: _CryFox_ joined the game
+[16:20:38] [Server thread/INFO]: [_CryFox_: Set the time to 1000]
+[16:22:00] [Server thread/WARN]: _CryFox_ moved too quickly! -9.859819412231445,-5.199999928474426,-5.702726240671041
+[16:22:05] [Server thread/WARN]: _CryFox_ moved too quickly! -8.79567992310831,-0.19999992847442627,-10.834164738417314
+[16:22:11] [Server thread/WARN]: _CryFox_ moved too quickly! -115.09586687050546,-17.16274525165558,122.3418794816514
+[16:22:19] [Server thread/WARN]: _CryFox_ moved too quickly! -53.87703720557488,-14.650421626296605,101.79862636608794
+[16:22:27] [Server thread/WARN]: _CryFox_ moved too quickly! -26.93947982788086,-46.786305490775746,81.4945068359375
+[16:22:57] [Server thread/INFO]: _CryFox_ fell out of the world
+[16:22:57] [Server thread/INFO]: [_CryFox_: Killed _CryFox_]
+[16:23:17] [Server thread/INFO]: _CryFox_ fell out of the world
+[16:23:17] [Server thread/INFO]: [_CryFox_: Killed _CryFox_]
+[16:23:51] [Server thread/WARN]: _CryFox_ moved too quickly! 173.75363159179688,80.74829830169676,11.862516403198242
+[16:23:54] [Server thread/WARN]: _CryFox_ moved too quickly! 163.18241238908365,100.23992122650145,13.688815016432443
+[16:23:59] [Server thread/WARN]: _CryFox_ moved too quickly! 130.5040096509956,76.40516052246093,8.206143863666398
+[16:24:13] [Server thread/WARN]: _CryFox_ moved too quickly! -127.24842689294468,-77.49746092965728,51.30912526191048
+[16:24:21] [Server thread/WARN]: _CryFox_ moved too quickly! -75.45971481734989,-0.4061788546953409,55.80947535552622
+[16:24:50] [Server thread/WARN]: _CryFox_ moved too quickly! -89.14635467529297,13.972661628723145,169.46827697753906
+[16:25:07] [Server thread/WARN]: _CryFox_ moved too quickly! -61.199127197265625,33.906974449157715,178.78382873535156
+[16:25:09] [Server thread/WARN]: _CryFox_ moved too quickly! 0.0,193.12159992694853,0.0
+[16:25:53] [Server thread/WARN]: _CryFox_ moved too quickly! 0.0,-23.47756855482112,0.0
+[16:26:45] [Server thread/INFO]: _CryFox_ fell out of the world
+[16:26:45] [Server thread/INFO]: [_CryFox_: Killed _CryFox_]
+[16:26:46] [Server thread/WARN]: _CryFox_ moved too quickly! -226.64725648478765,-2874.2073462164567,-55.18468423653553
+[16:27:05] [Server thread/WARN]: _CryFox_ moved too quickly! 0.0,193.12159992694853,0.0
+[16:28:06] [Server thread/INFO]: _CryFox_ fell out of the world
+[16:28:06] [Server thread/INFO]: [_CryFox_: Killed _CryFox_]
+[16:28:44] [Server thread/WARN]: _CryFox_ moved too quickly! 3.6006693840026855,192.60678364276885,13.58188247680664
+[16:28:52] [Server thread/WARN]: _CryFox_ moved too quickly! 0.0,25.13253338955292,0.0
+[16:30:38] [Server thread/INFO]: [_CryFox_: Teleported _CryFox_ to _CryFox_]
+[16:33:01] [Server thread/INFO]: <_CryFox_> wf
+[16:33:02] [Server thread/INFO]: <_CryFox_> w
+[16:33:02] [Server thread/INFO]: <_CryFox_> d
+[16:33:03] [Server thread/INFO]: <_CryFox_> wd
+[16:33:03] [Server thread/INFO]: <_CryFox_> a
+[16:33:04] [Server thread/INFO]: <_CryFox_> w
+[16:33:04] [Server thread/INFO]: <_CryFox_> da
+[16:35:16] [Server thread/INFO]: [_CryFox_: Set the weather to rain]
+[16:35:34] [Server thread/WARN]: _CryFox_ moved too quickly! 0.0,193.12159992694853,0.0
+[16:35:53] [Server thread/WARN]: _CryFox_ moved too quickly! 0.0,-16.916050367848584,0.0
+[16:37:49] [Server thread/INFO]: _CryFox_ fell out of the world
+[16:37:49] [Server thread/INFO]: [_CryFox_: Killed _CryFox_]
+[16:38:24] [Server thread/INFO]: [_CryFox_: Set the weather to clear]
+[16:38:36] [Server thread/INFO]: [_CryFox_: Set the time to 1000]
+[16:38:47] [Server thread/INFO]: [_CryFox_: Set own game mode to Survival Mode]
+[16:39:35] [Server thread/INFO]: [_CryFox_: Set own game mode to Creative Mode]
+[16:40:00] [Server thread/INFO]: _CryFox_ lost connection: Disconnected
+[16:40:00] [Server thread/INFO]: _CryFox_ left the game
+[16:43:33] [User Authenticator #60/INFO]: UUID of player Sam_Clyde is 7815d9f8-f5c9-4225-a14b-09d270d6fdf8
+[16:43:33] [Server thread/INFO]: Sam_Clyde[/67.249.90.120:50063] logged in with entity id 130034 at (299.3940217928277, 68.36819527715333, 251.74989632129865)
+[16:43:33] [Server thread/INFO]: Sam_Clyde joined the game
+[16:43:41] [User Authenticator #61/INFO]: UUID of player _CryFox_ is e05a61fe-9799-4469-8b2b-5b45c183ce15
+[16:43:41] [Server thread/INFO]: _CryFox_[/192.168.1.1:55900] logged in with entity id 130065 at (251.64642865416903, 73.42333169505321, 229.78676528704517)
+[16:43:41] [Server thread/INFO]: _CryFox_ joined the game
+[16:45:11] [Server thread/INFO]: Villager bfj['Armorer'/4609, l='ServerLevel[Creative2021]', x=259.30, y=66.50, z=281.55] died, message: 'Armorer was slain by Zombie Villager'
+[16:46:29] [Server thread/INFO]: [Sam_Clyde: Set the weather to clear]
+[16:48:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[16:48:59] [Server thread/INFO]: Sam_Clyde lost connection: Disconnected
+[16:48:59] [Server thread/INFO]: Sam_Clyde left the game
+[16:53:39] [Server thread/WARN]: _CryFox_ moved too quickly! -129.74103047409915,88.04584228515625,110.87087595480438
+[17:02:02] [Server thread/INFO]: [_CryFox_: Set the weather to clear]
+[17:03:52] [Server thread/WARN]: _CryFox_ moved too quickly! -8.512596683615143,5.200000047683716,1.0625796911156935
+[17:03:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
+[17:04:09] [Server thread/INFO]: _CryFox_ lost connection: Disconnected
+[17:04:09] [Server thread/INFO]: _CryFox_ left the game
+[17:04:59] [User Authenticator #62/INFO]: UUID of player _CryFox_ is e05a61fe-9799-4469-8b2b-5b45c183ce15
+[17:04:59] [Server thread/INFO]: _CryFox_[/192.168.1.1:55976] logged in with entity id 132684 at (7.475066312216407, 78.98980951140787, -38.80000001192093)
+[17:04:59] [Server thread/INFO]: _CryFox_ joined the game
+[17:09:28] [Server thread/INFO]: _CryFox_ lost connection: Disconnected
+[17:09:28] [Server thread/INFO]: _CryFox_ left the game
